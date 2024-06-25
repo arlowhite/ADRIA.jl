@@ -133,6 +133,8 @@ Julia-format: Flag
 Flag(s) for JuliaFormatter. See Formatting Options and options.jl.
 ```
 
+TODO update for `.JuliaFormatter.toml`
+
 The team has adopted the following configuration options for auto-formatting:
 
 ```bash
